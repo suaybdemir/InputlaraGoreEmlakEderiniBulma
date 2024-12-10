@@ -1,4 +1,4 @@
-# Curve Fitting
+<h1 style="text-align: center;"></h1>
 ![Görsel Açıklaması](CurveFitting/curvefitting-1.png)
 ![Görsel Açıklaması](CurveFitting/curvefitting-2.png)
 ![Görsel Açıklaması](CurveFitting/curvefitting-3.png)
