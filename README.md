@@ -27,12 +27,12 @@
 ![Görsel Açıklaması](PolynomialRegression/Figure_5.png)
 ![Görsel Açıklaması](PolynomialRegression/Figure_6.png)
 # Random Forest
-![Görsel Açıklaması](RandomForest/Figure-1.png)
+![Görsel Açıklaması](RandomForest/Figure_1.png)
 ![Görsel Açıklaması](RandomForest/randomforest.png)
 # XGBoost
-![Görsel Açıklaması](Xgboost/Figure-1.png)
-![Görsel Açıklaması](Xgboost/Figure-2.png)
-![Görsel Açıklaması](Xgboost/Figure-3.png)
+![Görsel Açıklaması](Xgboost/Figure_1.png)
+![Görsel Açıklaması](Xgboost/Figure_2.png)
+![Görsel Açıklaması](Xgboost/Figure_3.png)
 ![Görsel Açıklaması](Xgboost/xgboost.png)
 
 
