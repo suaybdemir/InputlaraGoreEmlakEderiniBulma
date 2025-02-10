@@ -69,4 +69,4 @@ Bu proje **MIT Lisansı** altında sunulmaktadır. Daha fazla bilgi için [LICEN
 🎯 **Herhangi bir sorunuz veya öneriniz varsa, lütfen bir [issue](https://github.com/suaybdemir/InputlaraGoreEmlakEderiniBulma/issues) açın!**  
 
 🔗 **Proje Linki:** [GitHub](https://github.com/suaybdemir/InputlaraGoreEmlakEderiniBulma)
-```
+
