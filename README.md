@@ -1,4 +1,3 @@
----
 
 ```md
 # 🏡 Inputlara Göre Emlak Değerini Bulma
